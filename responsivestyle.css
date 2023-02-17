@@ -1,0 +1,10 @@
+@media only screen(max-width:320px){
+.navbrand{
+    padding-left: 1rem;
+}
+.panel{
+    position: initial;
+    height: initial;
+    width: initial;
+}
+}
